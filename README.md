@@ -1,7 +1,5 @@
 # Hotel Booking Cancellation Prediction 🏨
 
-![Hotel Booking Banner](https://i.imgur.com/6X2aYvx.png)
-
 This repository contains the project for the **CSE422: Artificial Intelligence** course (Section 04, Summer 2025). The project focuses on developing a predictive model to forecast hotel booking cancellations using machine learning.
 
 **Group 14 Members:**
